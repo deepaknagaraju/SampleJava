@@ -7,6 +7,7 @@ public class SampleJava {
 		// TODO Auto-generated method stub
 		// Branch fix1.
 
+		//Hot Fix.
 	}
 
 }
