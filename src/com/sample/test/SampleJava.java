@@ -9,6 +9,9 @@ public class SampleJava {
 		//Branch fix21
 
 		//Hot Fix.
+		//Common Line Code Fix22 New For Hot Fix
+		//HF Branch Changes
+		//hotfixbranch1
 	}
 
 }
